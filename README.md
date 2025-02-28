@@ -41,3 +41,7 @@ npm run test:unit
 # npm install
 
 `npm install markdown-it`
+
+`npm install -D vuepress@next`
+`npx vuepress dev docs`
+`npx vuepress build docs`
